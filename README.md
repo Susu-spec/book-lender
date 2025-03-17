@@ -32,7 +32,7 @@ git clone <repository_url>
 
 2. Navigate to the project folder:
 ```bash
-cd library-management
+cd book-lender
 ```
 
 3. Run the application:
